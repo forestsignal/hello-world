@@ -8,3 +8,4 @@ I will learn more about gitHub.
 
  - feature-A
  - fix-B
+ - feature-C
